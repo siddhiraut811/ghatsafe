@@ -1,1 +1,7 @@
-add app screenshots
+add app screenshots   
+screenshots/
+├── 1-home-screen.jpg
+├── 2-features.jpg
+├── 3-theme-light.jpg
+├── 4-theme-dark.jpg
+└── 5-responsive.jpg
